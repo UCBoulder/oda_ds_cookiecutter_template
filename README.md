@@ -1,5 +1,9 @@
 # Cookiecutter for ODA Data Science Projects
 
+**This repo has been deprecated due to github developing its own template method**
+**An updated ODA Data Science Project Github Template can be found here:** https://github.com/UCBoulder/oda-ds-template
+
+
 A custom cookiecutter template based on [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/)
 
 
